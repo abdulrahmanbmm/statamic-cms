@@ -1,0 +1,8 @@
+super: true
+name: Abdulrahman
+id: 8d37c829-1ebf-4a0c-8715-600281887106
+password_hash: $2y$12$S1t/PmI8L04MGX26DKZLNOefC0mD31O9Ge57MgSYgj3f6zxHETjS6
+preferences:
+  collections:
+    pages:
+      after_save: continue_editing
